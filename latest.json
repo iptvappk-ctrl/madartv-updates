@@ -1,17 +1,17 @@
-﻿{
+{
     "packageName": "com.madar.madar_flutter",
-    "versionCode": 84,
-    "versionName": "1.0.77",
-    "apkUrl": "https://github.com/iptvappk-ctrl/madartv-updates/releases/download/v1.0.77-84/zaqzouka-1.0.77-84.apk",
-    "sha256": "5148b0f3837494663e390d51ed71c42e332ee01defb3efce6b681ad8171f7417",
-    "mandatory": false,
-    "releaseNotes": "تحديث زقزوقة الشامل: حل بطء تقديم ملخصات الكورة، منع إعلانات اليوتيوب الترويجية نهائياً، وإضافة شاشة تحميل فاخرة باللون الذهبي للأفلام والمسلسلات مع عداد زمني وزر فوري لتبديل السيرفر بدون شاشة سوداء.",
+    "versionCode": 92,
+    "versionName": "1.0.85",
+    "apkUrl": "https://github.com/iptvappk-ctrl/madartv-updates/releases/download/v1.0.85-92/zaqzouka-1.0.85-92.apk",
+    "sha256": "264938cce97f21f38cababf6ea64b214f0fcad135e3d7f51f796c7710770af83",
+    "mandatory": true,
+    "releaseNotes": "زقزوقة TV v1.0.85: تصحيح تصنيف المسلسلات والأفلام بالبحث، ضمان جلب حلقات AraDrama والمصادر، تحديث إجباري.",
     "player": {
         "packageName": "com.madar.player",
-        "versionCode": 29,
-        "versionName": "1.1.29",
-        "apkUrl": "https://github.com/iptvappk-ctrl/madartv-updates/releases/download/v1.0.77-84/zag-player-1.1.29.apk",
-        "sha256": "b0d8cee77dbf33284277d927b175830ee6a118e92b6ed152a8fed37bafce79b4",
-        "releaseNotes": "مشغل ZAG Player المحدث: حل تقديم ملخصات الكورة بدون تأخير، حظر إعلانات اليوتيوب بالكامل، وشاشة لودينج ذهبية متحركة للأفلام والمسلسلات."
+        "versionCode": 37,
+        "versionName": "1.1.37",
+        "apkUrl": "https://github.com/iptvappk-ctrl/madartv-updates/releases/download/v1.0.85-92/zag-player-1.1.37.apk",
+        "sha256": "d616cc5bbbcbe4716d1caf42b60e74bbbc4cc75962af09c66e3c225345b3cd10",
+        "releaseNotes": "ZAG Player 1.1.37: إصلاح منطق الإعلانات والعداد التنازلي."
     }
 }
